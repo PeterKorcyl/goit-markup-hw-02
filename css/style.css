@@ -40,18 +40,18 @@ body {
   list-style: none;
 }
 
-.page-description link {
+.page-description {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--dark-color);
 }
 
-.page-description link:hover {
+.page-description:hover {
   color: var(--pressed-state-color);
 }
 
-.page-description link:focus {
+.page-description:focus {
   color: var(--pressed-state-color);
 }
 
